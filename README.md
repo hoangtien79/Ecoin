@@ -1,0 +1,2 @@
+# Ecoin
+AI Token
